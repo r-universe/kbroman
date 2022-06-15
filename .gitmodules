@@ -3,3 +3,58 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "broman"]
+	path = broman
+	url = https://github.com/kbroman/broman
+	shallow = true
+	registered = true
+[submodule "lineup"]
+	path = lineup
+	url = https://github.com/kbroman/lineup
+	shallow = true
+	registered = true
+[submodule "lineup2"]
+	path = lineup2
+	url = https://github.com/kbroman/lineup2
+	shallow = true
+	registered = true
+[submodule "mbmixture"]
+	path = mbmixture
+	url = https://github.com/kbroman/mbmixture
+	shallow = true
+	registered = true
+[submodule "negenes"]
+	path = negenes
+	url = https://github.com/kbroman/negenes
+	shallow = true
+	registered = true
+[submodule "qtl"]
+	path = qtl
+	url = https://github.com/kbroman/qtl
+	shallow = true
+	registered = true
+[submodule "qtlbook"]
+	path = qtlbook
+	url = https://github.com/kbroman/qtlbook
+	shallow = true
+	registered = true
+[submodule "qtlcharts"]
+	path = qtlcharts
+	url = https://github.com/kbroman/qtlcharts
+	shallow = true
+	registered = true
+[submodule "regress"]
+	path = regress
+	url = https://github.com/kbroman/regress
+	shallow = true
+	registered = true
+[submodule "simcross"]
+	path = simcross
+	url = https://github.com/kbroman/simcross
+	shallow = true
+	registered = true
+[submodule "xoi"]
+	path = xoi
+	url = https://github.com/kbroman/xoi
+	shallow = true
+	registered = true

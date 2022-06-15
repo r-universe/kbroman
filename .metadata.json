@@ -1,0 +1,46 @@
+[
+  {
+    "package": "broman",
+    "oncran": true
+  },
+  {
+    "package": "lineup",
+    "oncran": true
+  },
+  {
+    "package": "lineup2",
+    "oncran": true
+  },
+  {
+    "package": "mbmixture",
+    "oncran": true
+  },
+  {
+    "package": "negenes",
+    "oncran": true
+  },
+  {
+    "package": "qtl",
+    "oncran": true
+  },
+  {
+    "package": "qtlbook",
+    "oncran": true
+  },
+  {
+    "package": "qtlcharts",
+    "oncran": true
+  },
+  {
+    "package": "regress",
+    "oncran": true
+  },
+  {
+    "package": "simcross",
+    "oncran": true
+  },
+  {
+    "package": "xoi",
+    "oncran": true
+  }
+]
