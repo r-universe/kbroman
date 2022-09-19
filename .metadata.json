@@ -4,6 +4,18 @@
     "oncran": true
   },
   {
+    "package": "lineup",
+    "oncran": true
+  },
+  {
+    "package": "lineup2",
+    "oncran": true
+  },
+  {
+    "package": "mbmixture",
+    "oncran": true
+  },
+  {
     "package": "negenes",
     "oncran": true
   },
