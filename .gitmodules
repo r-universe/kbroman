@@ -8,21 +8,6 @@
 	url = https://github.com/kbroman/broman
 	shallow = true
 	registered = true
-[submodule "lineup"]
-	path = lineup
-	url = https://github.com/kbroman/lineup
-	shallow = true
-	registered = true
-[submodule "lineup2"]
-	path = lineup2
-	url = https://github.com/kbroman/lineup2
-	shallow = true
-	registered = true
-[submodule "mbmixture"]
-	path = mbmixture
-	url = https://github.com/kbroman/mbmixture
-	shallow = true
-	registered = true
 [submodule "negenes"]
 	path = negenes
 	url = https://github.com/kbroman/negenes
