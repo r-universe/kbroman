@@ -1,18 +1,6 @@
 [
   {
-    "package": "lineup2",
-    "oncran": true
-  },
-  {
-    "package": "regress",
-    "oncran": true
-  },
-  {
-    "package": "mbmixture",
-    "oncran": true
-  },
-  {
-    "package": "qtlbook",
+    "package": "broman",
     "oncran": true
   },
   {
@@ -20,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "qtlcharts",
+    "package": "lineup2",
     "oncran": true
   },
   {
-    "package": "xoi",
+    "package": "mbmixture",
     "oncran": true
   },
   {
@@ -32,15 +20,27 @@
     "oncran": true
   },
   {
-    "package": "simcross",
-    "oncran": true
-  },
-  {
     "package": "qtl",
     "oncran": true
   },
   {
-    "package": "broman",
+    "package": "qtlbook",
+    "oncran": true
+  },
+  {
+    "package": "qtlcharts",
+    "oncran": true
+  },
+  {
+    "package": "regress",
+    "oncran": true
+  },
+  {
+    "package": "simcross",
+    "oncran": true
+  },
+  {
+    "package": "xoi",
     "oncran": true
   }
 ]
