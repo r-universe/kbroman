@@ -8,15 +8,9 @@
 [submodule "GWASapi"]
 	path = GWASapi
 	url = https://github.com/rqtl/GWASapi
-[submodule "aRxiv"]
-	path = aRxiv
-	url = https://github.com/ropensci/aRxiv
 [submodule "broman"]
 	path = broman
 	url = https://github.com/kbroman/broman
-[submodule "chromer"]
-	path = chromer
-	url = https://github.com/ropensci/chromer
 [submodule "circplot"]
 	path = circplot
 	url = https://github.com/kbroman/circplot
@@ -50,9 +44,6 @@
 [submodule "miner"]
 	path = miner
 	url = https://github.com/kbroman/miner
-[submodule "mmconvert"]
-	path = mmconvert
-	url = https://github.com/rqtl/mmconvert
 [submodule "negenes"]
 	path = negenes
 	url = https://github.com/kbroman/negenes
@@ -62,9 +53,6 @@
 [submodule "qtl"]
 	path = qtl
 	url = https://github.com/kbroman/qtl
-[submodule "qtl2"]
-	path = qtl2
-	url = https://github.com/rqtl/qtl2
 [submodule "qtl2bioc"]
 	path = qtl2bioc
 	url = https://github.com/rqtl/qtl2bioc
@@ -74,12 +62,6 @@
 [submodule "qtl2cl"]
 	path = qtl2cl
 	url = https://github.com/rqtl/qtl2cl
-[submodule "qtl2convert"]
-	path = qtl2convert
-	url = https://github.com/rqtl/qtl2convert
-[submodule "qtl2fst"]
-	path = qtl2fst
-	url = https://github.com/rqtl/qtl2fst
 [submodule "qtlbook"]
 	path = qtlbook
 	url = https://github.com/kbroman/qtlbook
