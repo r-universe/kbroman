@@ -1,37 +1,109 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kbroman/kbroman.r-universe.dev
 	branch = HEAD
+[submodule "GNapi"]
+	path = GNapi
+	url = https://github.com/rqtl/GNapi
+[submodule "GWASapi"]
+	path = GWASapi
+	url = https://github.com/rqtl/GWASapi
+[submodule "aRxiv"]
+	path = aRxiv
+	url = https://github.com/ropensci/aRxiv
 [submodule "broman"]
 	path = broman
 	url = https://github.com/kbroman/broman
+[submodule "chromer"]
+	path = chromer
+	url = https://github.com/ropensci/chromer
+[submodule "circplot"]
+	path = circplot
+	url = https://github.com/kbroman/circplot
+[submodule "craft"]
+	path = craft
+	url = https://github.com/kbroman/craft
+[submodule "detectPVC"]
+	path = detectPVC
+	url = https://github.com/kbroman/detectPVC
+[submodule "fingers"]
+	path = fingers
+	url = https://github.com/kbroman/fingers
+[submodule "geesibsor"]
+	path = geesibsor
+	url = https://github.com/kbroman/geesibsor
+[submodule "labstat"]
+	path = labstat
+	url = https://github.com/kbroman/labstat
 [submodule "lineup"]
 	path = lineup
 	url = https://github.com/kbroman/lineup
 [submodule "lineup2"]
 	path = lineup2
 	url = https://github.com/kbroman/lineup2
+[submodule "lmmlite"]
+	path = lmmlite
+	url = https://github.com/kbroman/lmmlite
 [submodule "mbmixture"]
 	path = mbmixture
 	url = https://github.com/kbroman/mbmixture
+[submodule "miner"]
+	path = miner
+	url = https://github.com/kbroman/miner
+[submodule "mmconvert"]
+	path = mmconvert
+	url = https://github.com/rqtl/mmconvert
+[submodule "mygmailR"]
+	path = mygmailR
+	url = https://github.com/kbroman/mygmailR
 [submodule "negenes"]
 	path = negenes
 	url = https://github.com/kbroman/negenes
+[submodule "npem"]
+	path = npem
+	url = https://github.com/kbroman/npem
 [submodule "qtl"]
 	path = qtl
 	url = https://github.com/kbroman/qtl
+[submodule "qtl2"]
+	path = qtl2
+	url = https://github.com/rqtl/qtl2
+[submodule "qtl2bioc"]
+	path = qtl2bioc
+	url = https://github.com/rqtl/qtl2bioc
+[submodule "qtl2browse"]
+	path = qtl2browse
+	url = https://github.com/rqtl/qtl2browse
+[submodule "qtl2cl"]
+	path = qtl2cl
+	url = https://github.com/rqtl/qtl2cl
+[submodule "qtl2convert"]
+	path = qtl2convert
+	url = https://github.com/rqtl/qtl2convert
+[submodule "qtl2fst"]
+	path = qtl2fst
+	url = https://github.com/rqtl/qtl2fst
 [submodule "qtlbook"]
 	path = qtlbook
 	url = https://github.com/kbroman/qtlbook
 [submodule "qtlcharts"]
 	path = qtlcharts
 	url = https://github.com/kbroman/qtlcharts
+[submodule "qtlsim"]
+	path = qtlsim
+	url = https://github.com/kbroman/qtlsim
 [submodule "regress"]
 	path = regress
 	url = https://github.com/kbroman/regress
+[submodule "ricalc"]
+	path = ricalc
+	url = https://github.com/kbroman/ricalc
 [submodule "simcross"]
 	path = simcross
 	url = https://github.com/kbroman/simcross
 [submodule "xoi"]
 	path = xoi
 	url = https://github.com/kbroman/xoi
+[submodule "xoiGBS"]
+	path = xoiGBS
+	url = https://github.com/kbroman/xoiGBS
