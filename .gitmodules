@@ -8,6 +8,9 @@
 [submodule "GWASapi"]
 	path = GWASapi
 	url = https://github.com/rqtl/GWASapi
+[submodule "Rmaze"]
+	path = Rmaze
+	url = https://github.com/kbroman/Rmaze
 [submodule "broman"]
 	path = broman
 	url = https://github.com/kbroman/broman
