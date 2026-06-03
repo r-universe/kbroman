@@ -56,6 +56,12 @@
 [submodule "qtl"]
 	path = qtl
 	url = https://github.com/kbroman/qtl
+[submodule "qtl2bioc"]
+	path = qtl2bioc
+	url = https://github.com/rqtl/qtl2bioc
+[submodule "qtl2browse"]
+	path = qtl2browse
+	url = https://github.com/rqtl/qtl2browse
 [submodule "qtl2cl"]
 	path = qtl2cl
 	url = https://github.com/rqtl/qtl2cl
